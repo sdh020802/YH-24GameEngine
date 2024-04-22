@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(72, 153, 242);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    margin-top: 50px;
+    width: 480px;
+    height: 800px;
+    background-color: rgb(180, 180, 180);
+}
